@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26222276/README.md)
+
 # ☕ Roastmark
 
 **Coffee roast tracking for home roasters.**  
